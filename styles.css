@@ -23,7 +23,18 @@ margin-bottom: 30px;
 font-weight: bold;
 font-size: 14pt;
 font-family: Courier New;
-
 }
-
-
+.p1 {
+    background: blue;
+}
+.p2 {
+    background: red;
+}
+.p3 {
+    background: yellow;
+}
+.p4 {
+    font-size: 24px;
+    text-shadow: 1px 1px 2px green;
+    text-align: center;
+}
